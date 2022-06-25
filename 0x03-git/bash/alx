@@ -1,1 +1,4 @@
 ALX
+#!bin/bash
+echo 'ALX'
+
